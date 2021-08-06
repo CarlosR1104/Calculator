@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #juan camilo niño crear funcion multiplicar
 def multiplicar():
     numero=int(input("ejecutara el programa cuantas veces ="))
@@ -29,3 +30,12 @@ def suma():
 suma()
     
     
+=======
+
+def divicion (nume1,nume2):
+    nume1=float(input('ingrese el numero1: '))
+    nume2=float(input('ingrese el numero2: '))
+    resultado=nume1/nume2
+    print(resultado)
+divicion()
+>>>>>>> stiven_dev
